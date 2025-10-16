@@ -1,4 +1,4 @@
-    # ATM Para Çekme Sistemi - Sözde Kod (pseudocode)
+# ATM Para Çekme Sistemi - Sözde Kod (pseudocode)
     
     CONSTANT DAILY_LIMIT := 5000          # günlük çekim limiti (örnek)
     CONSTANT BILL_UNIT := 20              # banknot birimi
